@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cofix</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_foodMenu">Меню</string>
+    <string name="menu_aboutUs">О нас</string>
+    <string name="menu_coffeeshops">Наши кофейни</string>
+    <string name="menu_contacts">Контакты</string>
+
+    <string name="aboutUs_1">Cofix — сеть кофеен с более чем 100 филиалами, основанная в 2013 году предпринимателем Ави Кацем. Сегодня Cofix — одна из крупнейших компаний Израиля в сфере ресторанного бизнеса.</string>
+    <string name="aboutUs_2">«Все началось, когда во время одной из поездок по стране мы с другом зашли в магазин на автозаправке. Я взял из машины 50 шекелей, что равно 850 российским рублям, и заказал горячий кофе (18 шекелей) и бутерброд (12 шекелей), а мой попутчик ― кофе со льдом (22 шекеля) и пачку жевательной резинки (6 шекелей).</string>
+    <string name="aboutUs_2_2">Мне пришлось возвращаться в машину, чтобы взять еще денег. В тот момент я понял, что необходимо что-то менять. Неужели чашка кофе и бутерброд должны стоить так много? Получается, что человеку, который хочет взять стакан кофе в день и съесть что-нибудь, придется потратить 2500 шекелей в месяц на кофе и бутерброды, либо выбирать: не пить или не есть, чтобы сократить расходы.»</string>
+    <string name="aboutUs_3">Ави Кац, основатель и разработчик сети</string>
+    <string name="aboutUs_4">Уникальная концепция кофеен Cofix произвела потребительскую революцию в Израиле!</string>
+    <string name="aboutUs_4_2">Философия компании — разумное потребление вместо переплаты, качественные еда и напитки за разумную цену — смогла привлечь множество потребителей и всего за три года компания стала лидером в кофейном сегменте, открыв более 150 точек.</string>
+    <string name="aboutUs_4_3">Осенью 2016 года компания Cofix вышла на российский рынок. Первая кофейня Cofix открылась в октябре 2016 года в самом центре Москвы в ТЦ «Охотный Ряд».</string>
+    <string name="aboutUs_4_4">Cofix предлагает клиентам широкий ассортимент блюд и напитков - свежесваренный кофе эксклюзивной итальянской обжарки, сэндвичи, выпечку, торты и печенье, безалкогольные напитки, фреш: всё по фиксированной цене! </string>
+
+    <string name="contacts_1">Если у вас есть вопросы или предложения, свяжитесь с нами!</string>
+    <string name="contacts_email">info@cofix.ru</string>
+    <string name="contacts_phone">+7 495 287 42 68</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
